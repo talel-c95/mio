@@ -1,7 +1,7 @@
 
-  # Luxurious 3D Patisserie App
+  # Luxury Self-Ordering Kiosk
 
-  This is a code bundle for Luxurious 3D Patisserie App. The original project is available at https://www.figma.com/design/djPDkyeXsyB9d5ciX5Qccg/Luxurious-3D-Patisserie-App.
+  This is a code bundle for Luxury Self-Ordering Kiosk. The original project is available at https://www.figma.com/design/JTIgsQQIgwrEbokMjc1r5G/Luxury-Self-Ordering-Kiosk.
 
   ## Running the code
 
